@@ -58,6 +58,8 @@ Start the Client
 ![](https://user-images.githubusercontent.com/97667567/214302613-b13a213c-ef8d-4120-852c-99409878464f.png)
 ![](https://user-images.githubusercontent.com/97667567/214302715-4453e87c-d465-4318-bdae-3d2256a0d46d.png)
 ![](https://user-images.githubusercontent.com/97667567/214303367-81bcedd9-fa12-4c88-84b4-0242cec5b468.png)
+### Withdraw and Deposit Page
+![](https://user-images.githubusercontent.com/97667567/214338952-035663ca-4089-40a4-a99b-576df61d0afd.png)
 ### Withdraw
 ![](https://user-images.githubusercontent.com/97667567/214303807-277502ad-6856-4878-83cf-a34583a8e5f7.png)
 ### Deposit
