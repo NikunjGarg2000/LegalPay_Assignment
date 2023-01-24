@@ -42,7 +42,7 @@ const BankAccount = () => {
       );
       console.log(data);
       toast({
-        title: "Successful",
+        title: "Withdrawn Successfully",
         status: "success",
         duration: 5000,
         isClosable: true,
@@ -90,7 +90,7 @@ const BankAccount = () => {
       );
       console.log(data);
       toast({
-        title: "Successful",
+        title: "Deposited Successfully",
         status: "success",
         duration: 5000,
         isClosable: true,
